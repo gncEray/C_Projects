@@ -49,5 +49,5 @@ int main()
 	fclose(numberfile);
 	
 	return 0;
-	}
+}
 
